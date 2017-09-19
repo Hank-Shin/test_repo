@@ -31,3 +31,4 @@ git 연습
 20 from test2
 
 bran1 에서 작업1 from test1
+bran1 1
