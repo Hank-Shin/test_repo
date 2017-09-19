@@ -25,3 +25,5 @@ git 연습
 =======
 15 from test1
 >>>>>>> 2ed2d296add7bb90e91cbc2d352c46d629254c80
+
+18 from test2
