@@ -30,6 +30,8 @@ git 연습
 19 from test1
 20 from test2
 
+in master test1 1
+
 bran1 에서 작업1 from test1
 bran1 1
 bran1 2
