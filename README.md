@@ -17,4 +17,5 @@ git 연습
 11 from test1
 12 from test2
 13 from test1
+14 from test2
 14 from test1
