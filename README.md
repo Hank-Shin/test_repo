@@ -43,3 +43,4 @@ bran1 4 from test2
 bran1 5 from test1
 master test1 4
 bran1 6 from test1
+bran1 7 from test1 6:3
