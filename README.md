@@ -40,3 +40,4 @@ master test1 2
 master test1 3
 bran1 3
 bran1 4 from test2
+master test1 4
