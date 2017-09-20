@@ -19,7 +19,7 @@ git 연습
 13 from test1
 14 from test2
 14 from test1
-
+==== master 6.37 ===
 16 from test2
 
 15 from test1
