@@ -79,3 +79,5 @@ master from test1 3.55
 revert1
 revert2
 bran3 from test1 5.07
+
+localBran1 6.09
