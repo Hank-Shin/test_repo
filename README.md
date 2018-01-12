@@ -111,4 +111,8 @@ master 13:35
 test2 13.38
 test1 13.39
 
+<<<<<<< Updated upstream
 test2 44
+=======
+test1 45
+>>>>>>> Stashed changes
