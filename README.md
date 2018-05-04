@@ -105,6 +105,21 @@ bran1 11 11.25
 local1 11 11.34
 local1 11 11.35
 bran1 12 2.50
+
 bran1 12 3.00
 
 bran1 add
+=======
+master 12 3.02
+
+master 13:35
+test2 13.38
+test1 13.39
+
+<<<<<<< Updated upstream
+test2 44
+=======
+test1 45
+
+test2 47
+
